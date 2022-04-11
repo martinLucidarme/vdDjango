@@ -1,4 +1,3 @@
-"""
 Insertion of html templates as a base
 for every app (section) to use the same html template
 
@@ -21,7 +20,3 @@ in blog>template>blog> index.html:
 {%block 'name'%} content {%endblock%}
 {%block 'name'%} content {%endblock%}
 etc...
-
-
-
-"""
